@@ -33,6 +33,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+
 @Composable
 fun SlideshowScreen() {
     val images = listOf(
